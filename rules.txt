@@ -1,0 +1,7 @@
+!
+! Request from User
+!
+! https://github.com/AdguardTeam/AdguardDNS/issues/52
+! mobileanalytics.*.amazonaws.com^
+! api2.branch.io^$dnsrewrite=0.0.0.0
+||chat.openai.com^
