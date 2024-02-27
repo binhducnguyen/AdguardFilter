@@ -4,4 +4,5 @@
 ! https://github.com/AdguardTeam/AdguardDNS/issues/52
 ! mobileanalytics.*.amazonaws.com^
 ! api2.branch.io^$dnsrewrite=0.0.0.0
-||chat.openai.com^
+127.0.0.1 dantri.vn
+127.0.0.1 dantri.com.vn
