@@ -1,0 +1,39 @@
+! List rules created by BinhND
+! From HopLongTech
+! https://github.com/AdguardTeam/AdguardDNS/issues/52
+! mobileanalytics.*.amazonaws.com^
+! api2.branch.io^$dnsrewrite=0.0.0.0
+
+127.0.0.1 ipv6check-udp.steamserver.net
+127.0.0.1 newassets.hcaptcha.com
+127.0.0.1 ekg.riotgames.com
+127.0.0.1 data.riotgames.com
+127.0.0.1 crash.steampowered.com
+127.0.0.1 sdkloginazure.vnggames.net
+127.0.0.1 login-jx1m.vnggames.net
+127.0.0.1 login-nikki.vnggames.net
+127.0.0.1 lienminh.vnggames.com
+127.0.0.1 vnggames.com
+127.0.0.1 https://lienminh.vnggames.com
+
+
+! Block Url for range IP. ||vnexpress.net^$client=192.168.83.0/24
+! Unblock everything for localhost. @@||*^$client=192.168.83.22
+! Block url for localhost. ||example.org^$client=192.168.83.22
+! Unblock for localhost only @@||app.harasocial.com^$client='192.168.83.93'
+! Block
+127.0.0.1 dantri.vn^$client=192.168.83.22
+127.0.0.1 dantri.com.vn^$client=192.168.83.22
+! 127.0.0.1 metruyencv.info^$important
+! 127.0.0.1 vtruyen.com^$important
+! 127.0.0.1 truyenfull.vn^$important
+! 127.0.0.1 truyenchumoi.com^$important
+! 127.0.0.1 truyencv.com^$important
+! 127.0.0.1 www.nettruyenup.vn^$important
+! 127.0.0.1 garena.com^
+! 127.0.0.1 facebook.com^$client=10.10.11.0/24
+! 127.0.0.1 www.facebook.com^$client=10.10.11.0/24
+! 127.0.0.1 tiktok.com^$client=10.10.11.0/24
+! 127.0.0.1 facebook.com^$client=10.10.10.0/24
+! 127.0.0.1 www.facebook.com^$client=10.10.10.0/24
+! 127.0.0.1 license1.seagullscientific.com^$important
