@@ -4,19 +4,6 @@
 ! mobileanalytics.*.amazonaws.com^
 ! api2.branch.io^$dnsrewrite=0.0.0.0
 
-127.0.0.1 ipv6check-udp.steamserver.net
-127.0.0.1 newassets.hcaptcha.com
-127.0.0.1 ekg.riotgames.com
-127.0.0.1 data.riotgames.com
-127.0.0.1 crash.steampowered.com
-127.0.0.1 sdkloginazure.vnggames.net
-127.0.0.1 login-jx1m.vnggames.net
-127.0.0.1 login-nikki.vnggames.net
-127.0.0.1 lienminh.vnggames.com
-127.0.0.1 vnggames.com
-127.0.0.1 https://lienminh.vnggames.com
-
-
 ! Block Url for range IP. ||vnexpress.net^$client=192.168.83.0/24
 ! Unblock everything for localhost. @@||*^$client=192.168.83.22
 ! Block url for localhost. ||example.org^$client=192.168.83.22
