@@ -6,12 +6,12 @@
 ! api2.branch.io^$dnsrewrite=0.0.0.0
 
 ||ipv6check-udp.steamserver.net^
-127.0.0.1 newassets.hcaptcha.com
-127.0.0.1 ekg.riotgames.com
-127.0.0.1 data.riotgames.com
-127.0.0.1 crash.steampowered.com
-127.0.0.1 sdkloginazure.vnggames.net
-127.0.0.1 login-jx1m.vnggames.net
-127.0.0.1 login-nikki.vnggames.net
-127.0.0.1 lienminh.vnggames.com
+||newassets.hcaptcha.com
+||ekg.riotgames.com
+||data.riotgames.com
+||crash.steampowered.com
+||sdkloginazure.vnggames.net
+||login-jx1m.vnggames.net
+||login-nikki.vnggames.net
+||lienminh.vnggames.com
 ||vnggames.com^
