@@ -9,16 +9,17 @@
 ! Block url for localhost. ||example.org^$client=192.168.83.22
 ! Unblock for localhost only @@||app.harasocial.com^$client='192.168.83.93'
 
-127.0.0.1 metruyencv.info^$important
-127.0.0.1 vtruyen.com^$important
-127.0.0.1 truyenfull.vn^$important
-127.0.0.1 truyenchumoi.com^$important
-127.0.0.1 truyencv.com^$important
-127.0.0.1 www.nettruyenup.vn^$important
-127.0.0.1 garena.com^
-127.0.0.1 facebook.com^$client=10.10.11.0/24
-127.0.0.1 www.facebook.com^$client=10.10.11.0/24
-127.0.0.1 tiktok.com^$client=10.10.11.0/24
-127.0.0.1 facebook.com^$client=10.10.10.0/24
-127.0.0.1 www.facebook.com^$client=10.10.10.0/24
-127.0.0.1 license1.seagullscientific.com^$important
+||metruyencv.info^$important
+||vtruyen.com^$important
+||truyenfull.vn^$important
+||truyenchumoi.com^$important
+||truyencv.com^$important
+||www.nettruyenup.vn^$important
+||garena.com^
+||facebook.com^$client=10.10.11.0/24
+||www.facebook.com^$client=10.10.11.0/24
+||tiktok.com^$client=10.10.11.0/24
+||facebook.com^$client=10.10.10.0/24
+||www.facebook.com^$client=10.10.10.0/24
+||license1.seagullscientific.com^$important
+||solidworks.com^$important
