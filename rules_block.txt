@@ -23,3 +23,4 @@
 ||www.facebook.com^$client=10.10.10.0/24
 ||license1.seagullscientific.com^$important
 ||solidworks.com^$important
+||community.3ds.com^$important
