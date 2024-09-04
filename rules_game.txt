@@ -5,13 +5,13 @@
 ! mobileanalytics.*.amazonaws.com^
 ! api2.branch.io^$dnsrewrite=0.0.0.0
 
-||ipv6check-udp.steamserver.net^
-||newassets.hcaptcha.com
-||ekg.riotgames.com
-||data.riotgames.com
-||crash.steampowered.com
-||sdkloginazure.vnggames.net
-||login-jx1m.vnggames.net
-||login-nikki.vnggames.net
-||lienminh.vnggames.com
-||vnggames.com^
+||ipv6check-udp.steamserver.net^important
+||newassets.hcaptcha.com^important
+||ekg.riotgames.com^important
+||data.riotgames.com^important
+||crash.steampowered.com^important
+||sdkloginazure.vnggames.net^important
+||login-jx1m.vnggames.net^important
+||login-nikki.vnggames.net^important
+||lienminh.vnggames.com^important
+||vnggames.com^important
