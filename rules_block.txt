@@ -15,7 +15,7 @@
 ||truyenchumoi.com^$important
 ||truyencv.com^$important
 ||www.nettruyenup.vn^$important
-||garena.com^
+||garena.com^important
 ||facebook.com^$client=10.10.11.0/24
 ||www.facebook.com^$client=10.10.11.0/24
 ||tiktok.com^$client=10.10.11.0/24
