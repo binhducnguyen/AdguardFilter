@@ -1,0 +1,26 @@
+! Block Trading, DEX, Mining
+||binance.com^important
+||coinbase.com^important
+||kraken.com^important
+||huobi.com^important
+||kucoin.com^important
+||okx.com^important
+||gate.io^important
+||bitfinex.com^important
+||coinex.com^important
+||uniswap.org^important
+||pancakeswap.finance^important
+||sushiswap.fi^important
+||1inch.io^important
+||curve.fi^important
+||nicehash.com^important
+||minergate.com^important
+||genesis-mining.com^important
+||hashflare.io^important
+||eobot.com^important
+||kryptex.org^important
+||stormgain.com^important
+||honeyminer.com^important
+||blockfi.com^important
+||celsius.network^important
+||nexo.io^important
