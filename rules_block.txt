@@ -8,19 +8,48 @@
 ! Unblock everything for localhost. @@||*^$client=192.168.83.22
 ! Block url for localhost. ||example.org^$client=192.168.83.22
 ! Unblock for localhost only @@||app.harasocial.com^$client='192.168.83.93'
-
+!Truyen
 ||metruyencv.info^$important
 ||vtruyen.com^$important
 ||truyenfull.vn^$important
 ||truyenchumoi.com^$important
 ||truyencv.com^$important
 ||www.nettruyenup.vn^$important
-||garena.com^important
+
 ||facebook.com^$client=10.10.11.0/24
 ||www.facebook.com^$client=10.10.11.0/24
 ||tiktok.com^$client=10.10.11.0/24
 ||facebook.com^$client=10.10.10.0/24
 ||www.facebook.com^$client=10.10.10.0/24
+
 ||license1.seagullscientific.com^$important
+
+! SolidWorks
+! Block All User
 ||solidworks.com^$important
 ||community.3ds.com^$important
+||solidworks.com^$denyallow
+||*.exe^$important
+
+! Phishing
+||cdn.dragon.cere.network^$important
+||confirmed-prong-koala.glitch.me^$important
+||ipfs.flk-ipfs.io^$important
+||matanatswor.ru^$important
+||ipfs.dweb.link^$important
+||s6wgj.mjt.lu^$important
+||prodigyhealths.com^$important
+||daxinlicai.com^$important
+||y3uhebryuiji3ueio.pages.dev^$important
+||gtegg.from-sc.com^$important
+||netfliixpay.accountauthsys.co^$important
+||xfqdbqmmpl.anne-partain.workers.dev^$important
+||leikumlucv.pages.dev^$important
+||rattle-quiver-tartan.glitch.me^$important
+||flk-ipfs.io^$important
+||y3uhebryuiji3ueio.pages.dev^$important
+||gtegg.from-sc.com^$important
+||netfliixpay.accountauthsys.co^$important
+||xfqdbqmmpl.anne-partain.workers.dev^$important
+||leikumlucv.pages.dev^$important
+||rattle-quiver-tartan.glitch.me^$important
