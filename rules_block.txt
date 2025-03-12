@@ -53,4 +53,4 @@
 ||xfqdbqmmpl.anne-partain.workers.dev^$important
 ||leikumlucv.pages.dev^$important
 ||rattle-quiver-tartan.glitch.me^$important
-||jackymzee.com^important
+||jackymzee.com^$important
