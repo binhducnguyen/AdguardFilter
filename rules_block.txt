@@ -26,7 +26,7 @@
 
 ! SolidWorks
 ! Block All User
-||solidworks.com^$important
+||solidworks.com^$important,dnsrewrite=10.10.10.88
 ||community.3ds.com^$important
 ||solidworks.com^$denyallow
 ||*.exe^$dnsrewrite=10.10.10.88/block
@@ -49,11 +49,11 @@
 ||flk-ipfs.io^$important
 ||y3uhebryuiji3ueio.pages.dev^$important
 ||gtegg.from-sc.com^$important
-||netfliixpay.accountauthsys.co^$important
-||xfqdbqmmpl.anne-partain.workers.dev^$important
-||leikumlucv.pages.dev^$important
-||rattle-quiver-tartan.glitch.me^$important
-||jackymzee.com^$important
+||netfliixpay.accountauthsys.co^$important,dnsrewrite=10.10.10.88
+||xfqdbqmmpl.anne-partain.workers.dev^$important,dnsrewrite=10.10.10.88
+||leikumlucv.pages.dev^$important,dnsrewrite=10.10.10.88
+||rattle-quiver-tartan.glitch.me^$important,dnsrewrite=10.10.10.88
+||jackymzee.com^$important,dnsrewrite=10.10.10.88
 ||sf1clips.com^important,dnsrewrite=10.10.10.88
 
 !Phim
