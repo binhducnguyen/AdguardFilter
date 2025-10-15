@@ -54,7 +54,7 @@
 ||leikumlucv.pages.dev^$important
 ||rattle-quiver-tartan.glitch.me^$important
 ||jackymzee.com^$important
-||sf1clips.com^$important$dnsrewrite=10.10.10.88/block
+||sf1clips.com^$important
 
 !Phim
 ||libdill.org^$important
