@@ -54,3 +54,8 @@
 ||leikumlucv.pages.dev^$important
 ||rattle-quiver-tartan.glitch.me^$important
 ||jackymzee.com^$important
+||sf1clips.com^$important
+
+!Phim
+||phim*$client=restricted-users
+*$client=restricted-users,domain=phim*
