@@ -29,7 +29,7 @@
 ||solidworks.com^$important
 ||community.3ds.com^$important
 ||solidworks.com^$denyallow
-||*.exe^$important
+||*.exe^$dnsrewrite=10.10.10.88/block
 
 ! Phishing
 ||cdn.dragon.cere.network^$important
