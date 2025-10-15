@@ -57,5 +57,6 @@
 ||sf1clips.com^$important
 
 !Phim
+||libdill.org^$important
 ||phim*$client=restricted-users
 *$client=restricted-users,domain=phim*
