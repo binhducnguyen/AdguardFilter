@@ -64,6 +64,6 @@
 10.10.10.88 libdill.org
 10.10.10.88 dantri.vn
 10.10.10.88 dantri.com.vn
-10.10.10.88 vnexpress.net
+!||vnexpress.net^$important,dnsrewrite=10.10.10.88
 !||libdill.org^$important,dnsrewrite=10.10.10.88
 ||phim*$client=restricted-users
