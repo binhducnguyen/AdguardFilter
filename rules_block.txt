@@ -61,8 +61,5 @@
 ||sf1clips.com^$important,dnsrewrite=10.10.10.88
 
 !Phim
-10.10.10.88 libdill.org
-10.10.10.88 dantri.vn
-10.10.10.88 dantri.com.vn
 !||libdill.org^$important,dnsrewrite=10.10.10.88
 ||phim*$client=restricted-users
