@@ -20,11 +20,11 @@
 ||truyencv.com^$important,dnsrewrite=10.10.10.88
 ||www.nettruyenup.vn^$important,dnsrewrite=10.10.10.88
 
-||facebook.com^$client=10.10.11.0/24
-||www.facebook.com^$client=10.10.11.0/24
-||tiktok.com^$client=10.10.11.0/24
-||facebook.com^$client=10.10.10.0/24
-||www.facebook.com^$client=10.10.10.0/24
+||facebook.com^$client=10.10.11.0/24,dnsrewrite=10.10.10.88
+||www.facebook.com^$client=10.10.11.0/24,dnsrewrite=10.10.10.88
+||tiktok.com^$client=10.10.11.0/24,dnsrewrite=10.10.10.88
+||facebook.com^$client=10.10.10.0/24,dnsrewrite=10.10.10.88
+||www.facebook.com^$client=10.10.10.0/24,dnsrewrite=10.10.10.88
 
 ||license1.seagullscientific.com^$important,dnsrewrite=10.10.10.88
 
