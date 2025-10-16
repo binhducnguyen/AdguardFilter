@@ -12,7 +12,7 @@
 10.10.10.88 localhost
 ::1 localhost
 
-!Truyen
+! Truyen
 ||metruyencv.info^$important
 ||vtruyen.com^$important
 ||truyenfull.vn^$important
@@ -60,6 +60,6 @@
 ||jackymzee.com^$important,dnsrewrite=10.10.10.88
 ||sf1clips.com^$important,dnsrewrite=10.10.10.88
 
-!Phim
-!||libdill.org^$important,dnsrewrite=10.10.10.88
+! Phim
+||libdill.org^$important,dnsrewrite=10.10.10.88
 ||phim*$client=restricted-users
