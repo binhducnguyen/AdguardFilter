@@ -13,12 +13,12 @@
 ::1 localhost
 
 ! Truyen
-||metruyencv.info^$important
-||vtruyen.com^$important
-||truyenfull.vn^$important
-||truyenchumoi.com^$important
-||truyencv.com^$important
-||www.nettruyenup.vn^$important
+||metruyencv.info^$important,dnsrewrite=10.10.10.88
+||vtruyen.com^$important,dnsrewrite=10.10.10.88
+||truyenfull.vn^$important,dnsrewrite=10.10.10.88
+||truyenchumoi.com^$important,dnsrewrite=10.10.10.88
+||truyencv.com^$important,dnsrewrite=10.10.10.88
+||www.nettruyenup.vn^$important,dnsrewrite=10.10.10.88
 
 ||facebook.com^$client=10.10.11.0/24
 ||www.facebook.com^$client=10.10.11.0/24
@@ -26,33 +26,33 @@
 ||facebook.com^$client=10.10.10.0/24
 ||www.facebook.com^$client=10.10.10.0/24
 
-||license1.seagullscientific.com^$important
+||license1.seagullscientific.com^$important,dnsrewrite=10.10.10.88
 
 ! SolidWorks
 ! Block All User
 ||solidworks.com^$important,dnsrewrite=10.10.10.88
-||community.3ds.com^$important
+||community.3ds.com^$important,dnsrewrite=10.10.10.88
 ||solidworks.com^$denyallow
 ||*.exe^$dnsrewrite=10.10.10.88/block
 
 ! Phishing
-||cdn.dragon.cere.network^$important
-||confirmed-prong-koala.glitch.me^$important
-||ipfs.flk-ipfs.io^$important
-||matanatswor.ru^$important
-||ipfs.dweb.link^$important
-||s6wgj.mjt.lu^$important
-||prodigyhealths.com^$important
-||daxinlicai.com^$important
-||y3uhebryuiji3ueio.pages.dev^$important
-||gtegg.from-sc.com^$important
-||netfliixpay.accountauthsys.co^$important
-||xfqdbqmmpl.anne-partain.workers.dev^$important
-||leikumlucv.pages.dev^$important
-||rattle-quiver-tartan.glitch.me^$important
-||flk-ipfs.io^$important
-||y3uhebryuiji3ueio.pages.dev^$important
-||gtegg.from-sc.com^$important
+||cdn.dragon.cere.network^$important,dnsrewrite=10.10.10.88
+||confirmed-prong-koala.glitch.me^$important,dnsrewrite=10.10.10.88
+||ipfs.flk-ipfs.io^$important,dnsrewrite=10.10.10.88
+||matanatswor.ru^$important,dnsrewrite=10.10.10.88
+||ipfs.dweb.link^$important,dnsrewrite=10.10.10.88
+||s6wgj.mjt.lu^$important,dnsrewrite=10.10.10.88
+||prodigyhealths.com^$important,dnsrewrite=10.10.10.88
+||daxinlicai.com^$important,dnsrewrite=10.10.10.88
+||y3uhebryuiji3ueio.pages.dev^$important,dnsrewrite=10.10.10.88
+||gtegg.from-sc.com^$important,dnsrewrite=10.10.10.88
+||netfliixpay.accountauthsys.co^$important,dnsrewrite=10.10.10.88
+||xfqdbqmmpl.anne-partain.workers.dev^$important,dnsrewrite=10.10.10.88
+||leikumlucv.pages.dev^$important,dnsrewrite=10.10.10.88
+||rattle-quiver-tartan.glitch.me^$important,dnsrewrite=10.10.10.88
+||flk-ipfs.io^$important,dnsrewrite=10.10.10.88
+||y3uhebryuiji3ueio.pages.dev^$important,dnsrewrite=10.10.10.88
+||gtegg.from-sc.com^$important,dnsrewrite=10.10.10.88
 ||netfliixpay.accountauthsys.co^$important,dnsrewrite=10.10.10.88
 ||xfqdbqmmpl.anne-partain.workers.dev^$important,dnsrewrite=10.10.10.88
 ||leikumlucv.pages.dev^$important,dnsrewrite=10.10.10.88
@@ -62,4 +62,4 @@
 
 ! Phim
 ||libdill.org^$important,dnsrewrite=10.10.10.88
-||phim*$client=restricted-users
+||phim*$client=restricted-users,dnsrewrite=10.10.10.88
