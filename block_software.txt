@@ -18,3 +18,7 @@
 ||grabcad.com
 ||cadforum.cz
 ||cad-addict.com
+||solidworks.com^$important,dnsrewrite=10.10.10.88
+||community.3ds.com^$important,dnsrewrite=10.10.10.88
+||solidworks.com^$denyallow
+||*.exe^$dnsrewrite=10.10.10.88/block
