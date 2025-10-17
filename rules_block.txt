@@ -63,3 +63,6 @@
 ! Phim
 ||libdill.org^$important,dnsrewrite=10.10.10.88
 ||phim*$client=restricted-users,dnsrewrite=10.10.10.88
+||rophim.li^$important,dnsrewrite=10.10.10.88
+||www.rophim.li^$important,dnsrewrite=10.10.10.88
+
