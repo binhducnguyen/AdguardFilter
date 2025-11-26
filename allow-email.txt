@@ -1,0 +1,5 @@
+@@||mail.hoplong.com^$important
+@@||hoplong.com^$important
+@@||smtp.hostvn.email^$important
+@@||imap.hostvn.email^$important
+@@||pop3.hostvn.email^$important
